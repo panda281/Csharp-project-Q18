@@ -10,7 +10,7 @@ namespace Csharp_project_Q18
     {
         static void Main(string[] args)
         {
-            int []arr = { 3, 4, 4, 2, 3, 3, 4, 3, 2 };
+            int[] arr = { 3, 4, 4, 2, 3, 3, 4, 3, 2 };
             int[] inc = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
             for(int i=0;i<9;i++)
             {
